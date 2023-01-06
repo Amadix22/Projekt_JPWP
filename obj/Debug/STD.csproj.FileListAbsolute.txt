@@ -1,0 +1,10 @@
+X:\Studia\JPWP_projekt\Projekt_JPWP\bin\Debug\STD.exe.config
+X:\Studia\JPWP_projekt\Projekt_JPWP\bin\Debug\STD.exe
+X:\Studia\JPWP_projekt\Projekt_JPWP\bin\Debug\STD.pdb
+X:\Studia\JPWP_projekt\Projekt_JPWP\obj\Debug\STD.csprojAssemblyReference.cache
+X:\Studia\JPWP_projekt\Projekt_JPWP\obj\Debug\STD.Form1.resources
+X:\Studia\JPWP_projekt\Projekt_JPWP\obj\Debug\STD.Properties.Resources.resources
+X:\Studia\JPWP_projekt\Projekt_JPWP\obj\Debug\STD.csproj.GenerateResource.cache
+X:\Studia\JPWP_projekt\Projekt_JPWP\obj\Debug\STD.exe
+X:\Studia\JPWP_projekt\Projekt_JPWP\obj\Debug\STD.pdb
+X:\Studia\JPWP_projekt\Projekt_JPWP\obj\Debug\STD.GameScreen.resources
